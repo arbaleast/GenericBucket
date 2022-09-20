@@ -4,8 +4,7 @@
   "bin": "Kling.exe",
   "description": "A utility to show keyboard keys visually on the Windows screen",
   "license": "GPL-3.0-or-later",
-  "extract_dir": "kling",
-  "extract_to": "D:\\Env\\UserScoop\\apps\\kling",
+  "extract_dir": "",
   "hash": "7b79f6dbe2cbc4424aaf36768d40ffdadb87460b72ecdcc80c6451a2c61e2a72",
   "version": "1.4",
   "autoupdate": {
