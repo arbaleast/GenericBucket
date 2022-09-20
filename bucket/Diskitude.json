@@ -1,7 +1,7 @@
 {
   "version": "unknow",
   "depends": "",
-  "bin": "",
+  "bin": "Diskitude.exe",
   "license": "",
   "homepage": "https://madebyevan.com/diskitude/",
   "hash": "fdc676d9191b66332e6f3479331864c464f25e55",
