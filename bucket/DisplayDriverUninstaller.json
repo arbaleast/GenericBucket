@@ -1,0 +1,19 @@
+{
+  "url": "https://github.com/arbaleast/GenericBucket.git",
+  "version": "18.0.5.4",
+  "extract_dir": "",
+  "depends": "",
+  "license": "",
+  "homepage": "https://www.wagnardsoft.com/forums/viewtopic.php?t=4142",
+  "bin": "",
+  "hash": "05D553CC8FF418F89652DA8842C820158D5CEA9D",
+  "autoupdate": {
+    "url": "https://www.wagnardsoft.com/DDU/download/DDU%20v$version.exe"
+  },
+  "shortcuts": [
+    [
+      "Display Driver Uninstaller.exe",
+      ""
+    ]
+  ]
+}
