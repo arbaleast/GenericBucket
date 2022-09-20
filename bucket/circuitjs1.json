@@ -6,5 +6,13 @@
   "depends": "",
   "homepage": "https://github.com/SEVA77/circuitjs1",
   "version": "1.2.2",
-  "url": "https://github.com/SEVA77/circuitjs1/releases/download/1.2.2/windows-x64.zip"
+  "url": "https://github.com/SEVA77/circuitjs1/releases/download/1.2.2/windows-x64.zip",
+  "autoupdate": {
+    "url": "https://github.com/SEVA77/circuitjs1/releases/download/1.2.2/windows-x64.zip"
+  },
+  "shortcuts": [
+    [
+      "circuitjs1.exe"
+    ]
+  ]
 }
