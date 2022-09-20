@@ -1,14 +1,12 @@
 {
-  "hash": "",
-  "extract_dir": "",
-  "bin": "",
+  "hash": "c93ab1fd8c8668c562b94fdde039325447a53ba5e9bf8439ebc0028166ef8021",
+  "bin": "circuitjs1.exe",
   "license": "GPL-2.0",
-  "depends": "",
   "homepage": "https://github.com/SEVA77/circuitjs1",
   "version": "1.2.2",
   "url": "https://github.com/SEVA77/circuitjs1/releases/download/1.2.2/windows-x64.zip",
   "autoupdate": {
-    "url": "https://github.com/SEVA77/circuitjs1/releases/download/1.2.2/windows-x64.zip"
+    "url": "https://github.com/SEVA77/circuitjs1/releases/download/$version/windows-x64.zip"
   },
   "shortcuts": [
     [
