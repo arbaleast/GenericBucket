@@ -6,13 +6,13 @@
   "homepage": "https://madebyevan.com/diskitude/",
   "hash": "fdc676d9191b66332e6f3479331864c464f25e55",
   "extract_dir": "",
-  "url": "https://github.com/arbaleast/GenericBucket.git",
+  "url": "https://github.com/arbaleast/myBucket.git",
   "autoupdate": {
     "url": "https://madebyevan.com/diskitude/Diskitude.exe"
   },
   "shortcuts": [
     [
-      "Diskitude"
+      "Diskitude.exe"
     ]
   ]
 }
