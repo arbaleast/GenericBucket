@@ -1,15 +1,16 @@
 {
-  "bin": "Diskitude.exe",
-  "version": "1.0",
-  "homepage": "https://madebyevan.com/diskitude/",
-  "hash": "fdbc40f5bb5293d4c43c7aa5dc89164e62888da7c257b2460b14b7be1cec4631",
-  "url": "https://madebyevan.com/diskitude/Diskitude.exe",
-  "autoupdate": {
-    "url": "https://madebyevan.com/diskitude/Diskitude.exe"
-  },
-  "shortcuts": [
-    [
-      "Diskitude.exe"
+    "bin": "Diskitude.exe",
+    "version": "1.0",
+    "homepage": "https://madebyevan.com/diskitude/",
+    "hash": "fdbc40f5bb5293d4c43c7aa5dc89164e62888da7c257b2460b14b7be1cec4631",
+    "url": "https://madebyevan.com/diskitude/Diskitude.exe",
+    "autoupdate": {
+        "url": "https://madebyevan.com/diskitude/Diskitude.exe"
+    },
+    "shortcuts": [
+        [
+            "Diskitude.exe",
+            "diskitude"
+        ]
     ]
-  ]
 }

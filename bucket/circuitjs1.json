@@ -1,6 +1,7 @@
 {
   "hash": "c93ab1fd8c8668c562b94fdde039325447a53ba5e9bf8439ebc0028166ef8021",
-  "bin": "circuitjs1.exe",
+  "bin": "CircuitSimulator.exe",
+  "extract_dir": "windows-x64",
   "license": "GPL-2.0",
   "homepage": "https://github.com/SEVA77/circuitjs1",
   "version": "1.2.2",
@@ -10,7 +11,8 @@
   },
   "shortcuts": [
     [
-      "circuitjs1.exe"
+      "CircuitSimulator.exe",
+      "circuSim"
     ]
   ]
 }
