@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/arbaleast/myBucket.git",
+  "url": "https://www.wagnardsoft.com/DDU/download/DDU%20v18.0.5.4.exe",
   "version": "18.0.5.4",
   "extract_dir": "",
   "depends": "",
@@ -12,8 +12,7 @@
   },
   "shortcuts": [
     [
-      "Display Driver Uninstaller.exe",
-      ""
+      "Display Driver Uninstaller.exe"
     ]
   ]
 }
