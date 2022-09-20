@@ -1,7 +1,8 @@
 {
   "homepage": "",
   "url": "https://github.com/KaustubhPatange/Kling/releases/download/1.4/klingv1.4_win64.zip",
-  "bin": "",
+  "bin": "Kling.exe",
+  "description": "A utility to show keyboard keys visually on the Windows screen",
   "extract_dir": "",
   "license": "GPL-3.0-or-later",
   "depends": "",
