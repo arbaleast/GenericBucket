@@ -1,0 +1,21 @@
+{
+  "version": "6.40.11.2.7",
+  "bin": "IDMan.exe",
+  "homepage": "https://www.internetdownloadmanager.com/",
+  "hash": "31b96677d8add87493b6c6506d81f7dd85a35fd3dfc3bc00e6fa16328bde1726",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/IDM_6.40.11.2.7z",
+  "license": "unknown",
+  "shortcuts": [
+    [
+        "IDMan.exe",
+        "idm"
+    ]
+  ],
+  "installer": {
+    "script": "!)绿化.bat"
+  },
+  "uninstaller": {
+    "script": "!)卸载.bat",
+    "args": "2"
+  }
+}

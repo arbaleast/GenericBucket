@@ -1,0 +1,13 @@
+{
+  "version": "2.2.0.0",
+  "bin": "IrisPortable.exe",
+  "hash": "a22762f9181c041c29f8fd5a3a1a765ba6c7b5b2a5269737573d23285952957c",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/Iris_v2.2.0.0.7z",
+  "license": "unknown",
+  "shortcuts": [
+    [
+        "IrisPortable.exe",
+        "Iris"
+    ]
+  ]
+}
