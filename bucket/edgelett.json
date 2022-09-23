@@ -1,0 +1,15 @@
+{
+  "bin": "edgeless-hub.exe",
+  "extract_dir": "Edgeless Hub",
+  "hash": "95cf44054167d51fc5a11e7714ea3f42ba967489291d1b4d4d8971db9a7944b8",
+  "url": "https://pineapple.edgeless.top/disk/Socket/Hub/Edgeless%20Hub_Beta_2.27.7z",
+  "homepage": "https://github.com/EdgelessPE/Edgeless",
+  "license": "MPL-2.0",
+  "version": "2.27",
+  "shortcuts": [
+    [
+        "edgeless-hub.exe",
+        "edgeless"
+    ]
+  ]
+}

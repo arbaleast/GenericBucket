@@ -8,5 +8,11 @@
   "autoupdate": {
     "url": "https://github.com/dotnetcore/FastGithub/releases/download/$version/fastgithub_win-x64.zip"
   },
-  "bin": "fastgithub.exe"
+  "bin": "fastgithub.exe",
+  "shortcuts": [
+    [
+        "FastGithub.UI.exe",
+        "fastgithub"
+    ]
+  ]
 }
