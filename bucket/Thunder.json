@@ -1,0 +1,20 @@
+{
+  "bin": "Program/Thunder.exe",
+  "hash": "749b27b96e716796251a111fe5ef92f808e19a791e791c57329e2d6b55c4f9a5",
+  "homepage": "unknown",
+  "license": "unknown",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/Thunder_v11.2.2.1716.7z",
+  "version": "11.2.2.1716",
+  "shortcuts": [
+    [
+        "Program/Thunder.exe",
+        "Thunder"
+    ]
+  ],
+  "installer": {
+    "script": "sudo pwsh -c \"$dir\\绿化.bat\""
+  },
+  "uninstaller": {
+    "script": "sudo pwsh -c \"$dir\\卸载.bat\""
+  }
+}

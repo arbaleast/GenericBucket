@@ -2,20 +2,19 @@
   "version": "6.40.11.2.7",
   "bin": "IDMan.exe",
   "homepage": "https://www.internetdownloadmanager.com/",
-  "hash": "31b96677d8add87493b6c6506d81f7dd85a35fd3dfc3bc00e6fa16328bde1726",
+  "hash": "1ea37575a84395485ccbb2f6a65eb6bcc3dcf9cf14c5cf0ecb7519f106a18d77",
   "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/IDM_6.40.11.2.7z",
   "license": "unknown",
   "shortcuts": [
     [
         "IDMan.exe",
-        "idm"
+        "IDM"
     ]
   ],
   "installer": {
-    "script": "!)绿化.bat"
+    "script": "sudo pwsh -c \"$dir\\绿化.bat\""
   },
   "uninstaller": {
-    "script": "!)卸载.bat",
-    "args": "2"
+    "script": "sudo pwsh -c \"$dir\\卸载.bat\""
   }
 }

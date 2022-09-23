@@ -1,0 +1,35 @@
+{
+  "bin": [
+    "office6/wpp.exe",
+    "office6/wps.exe",
+    "office6/et.exe"
+  ],
+  "hash": "395259beee63301d473b1e28b8a805f7d838ffe222f9da9f17ddd6d22ae935e1",
+  "homepage": "unknown",
+  "license": "unknown",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/WPS2019.7z",
+  "version": "unknown",
+  "shortcuts": [
+    [
+        "office6/wps.exe",
+        "word"
+    ],
+    [
+        "office6/wpp.exe",
+        "ppt"
+    ],
+    [
+        "office6/et.exe",
+        "excel"
+    ]
+  ],
+  "installer": {
+    "script": [
+        "sudo pwsh -c \"$dir\\2019黑色皮肤.cmd\"",
+        "sudo pwsh -c \"$dir\\!绿化（共存关联-快捷方式）.cmd\""
+    ]
+  },
+  "uninstaller": {
+    "script": "sudo pwsh -c \"$dir\\!卸载wps关联.cmd\""
+  }
+}
