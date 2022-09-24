@@ -1,0 +1,20 @@
+{
+  "bin": "BaiduNetdisk.exe",
+  "hash": "b8f7b65c9d74f1bc903b1a33f2a1e839670aec9d8f409cb39ad96f7592ac9bfc",
+  "homepage": "unknown",
+  "license": "unknown",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/BaiduNetdisk_v7.10.2.8.7z",
+  "version": "7.10.2.8.7",
+  "shortcuts": [
+    [
+        "BaiduNetdisk.exe",
+        "BaiduNetdisk"
+    ]
+  ],
+  "installer": {
+    "script": "sudo pwsh -c \"$dir\\绿化处理.bat\""
+  },
+  "uninstaller": {
+    "script": "sudo pwsh -c \"$dir\\卸载移除.bat\""
+  }
+}

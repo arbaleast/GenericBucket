@@ -1,0 +1,20 @@
+{
+  "bin": "bin/QQ.exe",
+  "hash": "6c58f10a1d6b925dee017529779ef7ba5a354d104b1eab8546e7c9de4281cd5a",
+  "homepage": "unknown",
+  "license": "unknown",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/QQ_v9.4.3.27712.7z",
+  "version": "9.4.3.27712",
+  "shortcuts": [
+    [
+      "bin/QQ.exe",
+      "QQ"
+    ]
+  ],
+  "installer": {
+    "script": "sudo pwsh -c \"$dir\\绿化处理.bat\""
+  },
+  "uninstaller": {
+    "script": "sudo pwsh -c \"$dir\\卸载移除.bat\""
+  }
+}
