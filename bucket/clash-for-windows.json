@@ -1,6 +1,6 @@
 {
   "bin": "Clash for Windows.exe",
-  "hash": "afb795f12f0b70c040094d1d820b9c633c3dba6130690937cffc8f51ab0080fe",
+  "hash": "a761c5fc7d3f7a5562b0f1cabce199492958baf23232bcfd3954a52c375dc409",
   "homepage": "https://github.com/Fndroid/clash_for_windows_pkg",
   "license": "unknown",
   "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/Clash_for_Windows_v0.19.20.7z",
@@ -8,13 +8,7 @@
   "shortcuts": [
     [
         "Clash for Windows.exe",
-        "BaiduNetdisk"
+        "clash"
     ]
-  ],
-  "installer": {
-    "script": "sudo pwsh -c \"$dir\\绿化处理.bat\""
-  },
-  "uninstaller": {
-    "script": "sudo pwsh -c \"$dir\\卸载移除.bat\""
-  }
+  ]
 }
