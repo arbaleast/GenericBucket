@@ -1,10 +1,14 @@
 {
-  "license": "",
+  "license": "unknown",
   "version": "5.9.9",
-  "depends": "",
-  "url": "https://ter.xom",
-  "extract_dir": "",
-  "homepage": "",
-  "hash": "",
-  "bin": ""
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/GoldenDict-plus-plus_5.9.9.7z",
+  "homepage": "https://autoptr.top/gdocr/GoldenDict-OCR-Deployment/",
+  "hash": "9a629b8c8f39955f8228f3ddbbdb384eeae0a4cf5d0bd5fdfa3b3876d126dffa",
+  "bin": "GoldenDict.exe",
+  "shortcuts": [
+    [
+        "GoldenDict.exe",
+        "goldendict"
+    ]
+  ]
 }

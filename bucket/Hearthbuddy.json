@@ -1,0 +1,14 @@
+{
+  "license": "GPL-3.0",
+  "version": "6.0.0",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/Hearthbuddy_v6.0.0.7z",
+  "homepage": "https://gitee.com/UniverseString/Hearthstone-myHearthScript",
+  "hash": "9d952e4d6f8b244f81092b7c3e5191b5863aa7260bdf1fb278e53ed2539d3ebe",
+  "bin": "Hearthbuddy.exe",
+  "shortcuts": [
+    [
+        "炉石兄弟中控.exe",
+        "stoneCtrl"
+    ]
+  ]
+}
