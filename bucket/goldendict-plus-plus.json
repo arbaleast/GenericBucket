@@ -1,9 +1,9 @@
 {
   "license": "unknown",
   "version": "5.9.9",
-  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/GoldenDict-plus-plus_5.9.9.7z",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/GoldenDict%2B%2B.20220819.7z",
   "homepage": "https://autoptr.top/gdocr/GoldenDict-OCR-Deployment/",
-  "hash": "9a629b8c8f39955f8228f3ddbbdb384eeae0a4cf5d0bd5fdfa3b3876d126dffa",
+  "hash": "28ac864c4d024d8b7fe09c9e5f4b6682ebad9803d02aad333c7abe611180e22b",
   "bin": "GoldenDict.exe",
   "shortcuts": [
     [
