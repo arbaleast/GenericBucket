@@ -1,0 +1,14 @@
+{
+  "homepage": "https://github.com/EdgelessPE/Edgeless",
+  "hash": "da0d811b797acbf083dd02e134c779028fcb7060096b1291127b668c5632d0e1",
+  "license": "MPL-2.0",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/Edgeless%20Hub.7z",
+  "bin": "edgeless-hub.exe",
+  "version": "2.27",
+  "shortcuts": [
+    [
+        "edgeless-hub.exe",
+        "edgeless"
+    ]
+  ]
+}
