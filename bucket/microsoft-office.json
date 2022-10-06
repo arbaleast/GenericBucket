@@ -1,0 +1,29 @@
+{
+  "license": "unknown",
+  "bin": "Office16/WINWORD.EXE",
+  "homepage": "https://www.xb21cn.com/267.html",
+  "description": "Microsoft Office 2016/2013/2010/2007/2003 绿色精简版 / 精简安装版 \n 支持的操作系统 Windows 7, Windows 8/8.1, Windows 10/11 x86/x64 \n 组件包含Word, Excel, PowerPnt, Access四大常用组件以及VBA开发工具 \n\n - 采用的32位版本精简制作，关键更新及安全更新至2022年1月； \n - 保留Word, Excel, PowerPoint, Access(安装版可选)，含VBA； \n - 保留在线模板, 英文语法检查, 简繁转换, 规划求解, 数据分析等; \n - 加入WPS文件格式关联数据data\\wps.dat（安装版可选） \n - 解除最新的更新补丁系统要求限制，支持Windows XP; \n - 加入 OfficeTab 标签插件（安装版可选） \n - 加入仿 2003 样式经典菜单插件; \n - PPT 集成插入 MP3、Flsh 插件; \n - 全部免激活（Office2016除外） \n - 支持静默安装参数： /S \n ",
+  "version": "2016",
+  "hash": "d473c468ef5a2f93586d4eb2d59dc5b6ee1f309a17633cd8edf3db074e78a1c9",
+  "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/office2016.7z",
+  "shortcuts": [
+    [
+        "Office16/EXCEL.EXE",
+        "Excel"
+    ],
+    [
+        "Office16/WINWORD.EXE",
+        "Word"
+    ],
+    [
+        "Office16/POWERPNT.EXE",
+        "PowerPoint"
+    ]
+  ],
+  "installer": {
+    "script": "sudo pwsh -c \"\"$dir/inst.cmd\"\""
+  },
+  "uninstaller": {
+    "script": "sudo pwsh -c \"\"$dir/unist.cmd\"\""
+  }
+}
