@@ -1,14 +1,18 @@
 {
     "bin": "Clash for Windows.exe",
-    "hash": "7f9f1bbbc4d98e51d938191b494d8a803df996a411c277f1ee7c0b529844d3f2",
+    "hash": "8924ee2bd77088ef8e4ad4a09e9fa971707f2ae91fd48b52345cf4b111f7f1e5",
     "homepage": "https://github.com/Fndroid/clash_for_windows_pkg",
     "license": "unknown",
-    "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/Clash_for_Windows.7z",
+    "url": "http://47.98.145.29:5244/d/MyOnedrive/scoop/clash_for_windows_v0.20.5.7z",
     "version": "0.20.5",
     "shortcuts": [
       [
           "Clash for Windows.exe",
           "clash"
       ]
-    ]
+    ],
+    "checkver": {
+      "url": "http://auspicious-picturesque-index.glitch.me/test/scoop/",
+      "regex": "v\\d+(.\\d+){0,3}"
+    }
   }
